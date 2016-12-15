@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="1.0.0" uuid="attention-b918bf">
+ <names>
+  <name lang="en_US">attention</name>
+  <name lang="fr_FR">Pepper Attention</name>
+ </names>
+ <descriptions>
+  <description lang="fr_FR">Pepper Attention</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>fr_FR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>fr_FR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement/>
+  <robotRequirement model="JULIETTE"/>
+ </requirements>
+</package>

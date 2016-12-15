@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="hello-a10022">
+ <names>
+  <name lang="en_US">hello</name>
+  <name lang="fr_FR">Pepper Hello</name>
+ </names>
+ <descriptions>
+  <description lang="fr_FR">Pepper Hello</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>fr_FR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>fr_FR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement/>
+  <robotRequirement model="JULIETTE"/>
+ </requirements>
+</package>
